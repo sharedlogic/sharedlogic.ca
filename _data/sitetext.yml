@@ -48,11 +48,11 @@ en: &DEFAULT_EN
       - name: "Colin Goring"
         role: "Lead Engineer"
         image: assets/img/team/1.jpg
-      - name: "Micheal Forster"
+      - name: "Michael Forster"
         role: "Lead Engineer"
         image: assets/img/team/3.jpg
       - name: "Liam Goring"
-        role: "Softwre Developer"
+        role: "Software Developer"
         image: assets/img/team/2.jpg
 
   contact:

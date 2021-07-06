@@ -22,7 +22,7 @@ email      : contact@sharedlogic.ca #this is also the email contact forms will g
 description: ""
 author     : Liam Goring
 logo:     #optional, defaults to site title
-  path: ../assets/img/SLI-Logo_2004_100h.jpg
+  path: assets/img/SLI-Logo_2004_400h.jpg
   height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
